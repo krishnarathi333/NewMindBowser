@@ -1,5 +1,4 @@
-# angular-9-registration-login-example
+# Manager-login-Demo-app
 
-Angular 9 - User Registration and Login Example
+-- Mind Bowser
 
-Full tutorial with example available at https://jasonwatmore.com/post/2020/04/28/angular-9-user-registration-and-login-example-tutorial"# Demoapp" 
